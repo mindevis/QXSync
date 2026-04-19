@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/mindevis/qxsync/compare/v1.0.4...v1.0.5) (2026-04-19)
+
+
+### Bug Fixes
+
+* bootstrap semantic-release for github releases ([cd1c813](https://github.com/mindevis/qxsync/commit/cd1c813d2b44c2461a782e3bf60bf0b73969558d))
+
 ## [1.0.3](https://github.com/mindevis/qm-project/compare/qxsync-v1.0.2...qxsync-v1.0.3) (2026-04-19)
 
 
